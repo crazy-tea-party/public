@@ -1,5 +1,8 @@
 Rumix app
 
+## Репозиторий не обновляется. Новую версю можно найти в google play
+https://play.google.com/store/apps/details?id=ru.grouple.rumix
+
 The application based on tachiyomi project of Javier Tomás and published on Apache License, Version 2.0.
 
 ```
